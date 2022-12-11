@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		91312C5A294273BC00A46D95 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91312C59294273BC00A46D95 /* main.swift */; };
+		91312C61294273DD00A46D95 /* Organization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91312C60294273DD00A46D95 /* Organization.swift */; };
+		91B54E832944D1F00003DA7E /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B54E822944D1F00003DA7E /* File.swift */; };
+		91B54E852944D5840003DA7E /* Deliveries.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B54E842944D5840003DA7E /* Deliveries.swift */; };
+		91B54E872944DC830003DA7E /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B54E862944DC830003DA7E /* Models.swift */; };
+		91B54E89294518000003DA7E /* stoks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B54E88294518000003DA7E /* stoks.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +30,11 @@
 /* Begin PBXFileReference section */
 		91312C56294273BC00A46D95 /* First Big Project */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "First Big Project"; sourceTree = BUILT_PRODUCTS_DIR; };
 		91312C59294273BC00A46D95 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91312C60294273DD00A46D95 /* Organization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Organization.swift; sourceTree = "<group>"; };
+		91B54E822944D1F00003DA7E /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		91B54E842944D5840003DA7E /* Deliveries.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deliveries.swift; sourceTree = "<group>"; };
+		91B54E862944DC830003DA7E /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		91B54E88294518000003DA7E /* stoks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stoks.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +68,11 @@
 			isa = PBXGroup;
 			children = (
 				91312C59294273BC00A46D95 /* main.swift */,
+				91312C60294273DD00A46D95 /* Organization.swift */,
+				91B54E822944D1F00003DA7E /* File.swift */,
+				91B54E842944D5840003DA7E /* Deliveries.swift */,
+				91B54E862944DC830003DA7E /* Models.swift */,
+				91B54E88294518000003DA7E /* stoks.swift */,
 			);
 			path = "First Big Project";
 			sourceTree = "<group>";
@@ -120,7 +135,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91312C61294273DD00A46D95 /* Organization.swift in Sources */,
+				91B54E832944D1F00003DA7E /* File.swift in Sources */,
 				91312C5A294273BC00A46D95 /* main.swift in Sources */,
+				91B54E852944D5840003DA7E /* Deliveries.swift in Sources */,
+				91B54E89294518000003DA7E /* stoks.swift in Sources */,
+				91B54E872944DC830003DA7E /* Models.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
